@@ -7,7 +7,7 @@ This paper proposes a semi-automated 3D multi-scale residual convolutional netwo
 # Python Code
 
 We make the source code publicly available for researchers for validation and further improvement.
-The code includes the following files: main, train, predict, and model's network.
+The code includes the following files: main, read_data, and DLNetwork.
 
 
 # Our Submitted paper
